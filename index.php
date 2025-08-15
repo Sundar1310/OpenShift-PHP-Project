@@ -1,3 +1,3 @@
-<? 
-print("Welcome to my OpenShift Project using PHP code")
+<?php
+echo "Welcome to my website!";
 ?>

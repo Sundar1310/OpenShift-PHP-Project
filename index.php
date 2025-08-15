@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to my website!";
+echo "Welcome to my OpenShift Sandbox using PHP project";
 ?>

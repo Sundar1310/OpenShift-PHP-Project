@@ -111,7 +111,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </section>
 
 <footer>
-    <p>© <?php echo date("Y"); ?> Sundar's Beauty Parlour. All Rights Reserved.</p>
+    <p>© <?php echo date("Y"); ?> Sundar Hair Stylings. All Rights Reserved.</p>
     <p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/OpenShift-LogoType.svg"
              alt="OpenShift Logo" style="height: 25px; vertical-align: middle;">

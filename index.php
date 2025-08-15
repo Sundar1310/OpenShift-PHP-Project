@@ -1,3 +1,3 @@
 <? 
-print("Welcome to my OpenShift Project using PHP code - Version 1")
+print("Welcome to my OpenShift Project using PHP code")
 ?>

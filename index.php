@@ -1,3 +1,3 @@
 <?php
-echo "Welcome to my OpenShift Project using PHP project";
+echo "Welcome to my OpenShift Project using PHP";
 ?>
